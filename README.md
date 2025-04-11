@@ -6,6 +6,11 @@ Este projeto é uma réplica da página inicial do serviço de streaming Disney+
 
 👉 [Clique aqui para acessar o clone](https://clone-disneyplus-dougeduardo.vercel.app/)
 
+## 📸 Demonstração
+
+![preview](https://i.imgur.com/1vpqcMU.jpeg)
+
+---
 ## ✨ Funcionalidades
 
 - **Seções Informativas**: Inclui seções como "Em breve", "Mais populares" e "Mais no Star+".
